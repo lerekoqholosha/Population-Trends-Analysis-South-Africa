@@ -55,7 +55,7 @@ Based on the analysis, the following recommendations are provided:
 
 ## Usage
 
--To gain insights into South Africa's population trends and demographic changes, you can refer to the analysis section of this project.
+- To gain insights into South Africa's population trends and demographic changes, you can refer to the analysis section of this project.
 
 ## License
 
@@ -64,15 +64,15 @@ This project is licensed under the MIT License - see the [MIT.md](MIT.md) file f
 ## Acknowledgments
 
 - Credit to Wikipedia
-- 
+  
 
 ## Contact
 
-Lereko
-lerekoqholosha9@gmail.com
+- Author: Lereko
+- Email: lerekoqholosha9@gmail.com
 
 ## Contributing
-- Contributions are welcomed!
+- We welcome contributions to improve and expand this population trends analysis project. Whether you're interested in enhancing the analysis, adding visualizations, or suggesting new recommendations, your contributions are valuable.
 
 
 
