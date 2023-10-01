@@ -55,11 +55,11 @@ Based on the analysis, the following recommendations are provided:
 
 ## Usage
 
-- [Explain how to use or run the analysis]
+-you can run this on colab or jupyter notebook
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [MIT.md](MIT.md) file for details.
 
 ## Acknowledgments
 
@@ -72,7 +72,7 @@ Lereko
 lerekoqholosha9@gmail.com
 
 ## Contributing
-Contributions are welcomed!
+- Contributions are welcomed!
 
-- [Explain how others can contribute to the project]
+
 
