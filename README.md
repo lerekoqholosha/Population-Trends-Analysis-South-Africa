@@ -55,7 +55,7 @@ Based on the analysis, the following recommendations are provided:
 
 ## Usage
 
--you can run this on colab or jupyter notebook
+-To gain insights into South Africa's population trends and demographic changes, you can refer to the analysis section of this project.
 
 ## License
 
